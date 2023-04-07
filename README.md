@@ -85,3 +85,5 @@ load "dice_commands.txt"
 
 You will now see a file named `dice_output.png` in your project folder. This file is a graphical representation of your results.
 
+![dice analysis example usage with Gnuplot](/test_outputs/dice_output.png "Dice analysis output plotting example")
+
