@@ -61,10 +61,10 @@ In the `dice_data.txt` file, you can see the results of the dice thrown.
 The first column is the sum of the two dice. The second column is how many times these dice reach this sum. For example:
 
 ```txt
-  2  1      --> Sum of the dice: 2, This result happened 1 time.
-  3  2      --> Sum of the dice: 3, This result happened 2 times.
-  4  3      --> Sum of the dice: 4, This result happened 3 times.
-  5  2      --> Sum of the dice: 2, This result happened 2 times.
+  2  1      --> Sum of the dices: 2, This result happened 1 time.
+  3  2      --> Sum of the dices: 3, This result happened 2 times.
+  4  3      --> Sum of the dices: 4, This result happened 3 times.
+  5  2      --> Sum of the dices: 2, This result happened 2 times.
   .  .      --> ...
   .  .      --> ...
 
