@@ -37,10 +37,6 @@ gfortran ./Dice_Fortran_version.f90 -o Test
 &nbsp;
 
 ---
----
----
----
----
 
 &nbsp;
 
