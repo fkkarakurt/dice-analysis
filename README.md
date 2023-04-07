@@ -14,22 +14,21 @@ git clone https://github.com/fkkarakurt/dice-analysis.git
 cd dice-analysis
 ```
 
-### For C Programming Language
+### For C
 
 ```bash
 gcc ./Dice_C_version.c -o Test
 ./Test
 ```
 
-### For C++ Programming Language
+### For C++
 
 ```bash
 g++ ./Dice_Cxx_version.cpp -o Test
 ./Test
 ```
 
-### For FORTRAN Programming Language
-
+### For FORTRAN
 ```bash
 gfortran ./Dice_Fortran_version.f90 -o Test
 ./Test
