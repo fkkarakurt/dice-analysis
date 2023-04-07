@@ -64,7 +64,7 @@ The first column is the sum of the two dice. The second column is how many times
   2  1      --> Sum of the dices: 2, This result happened 1 time.
   3  2      --> Sum of the dices: 3, This result happened 2 times.
   4  3      --> Sum of the dices: 4, This result happened 3 times.
-  5  2      --> Sum of the dices: 2, This result happened 2 times.
+  5  2      --> Sum of the dices: 5, This result happened 2 times.
   .  .      --> ...
   .  .      --> ...
 
