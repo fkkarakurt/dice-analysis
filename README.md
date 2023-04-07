@@ -41,7 +41,7 @@ gfortran ./Dice_Fortran_version.f90 -o Test
 
 If all goes well, a text like the one below will greet you. Write here how many times you want the two dice to be thrown simultaneously:
 
-```bash
+```txt
 DICE SIMULATION:
   <language> Vers.
   A program that simulates N throws of two identical dice with the same characteristics.
