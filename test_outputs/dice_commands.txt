@@ -1,0 +1,18 @@
+# dice_commands.txt
+#
+# @author Fatih Kucukkarakurt
+# @url https://github.com/fkkarakurt/dice-analysis
+# Usage:
+#  gnuplot > laod 'dice_commands.txt'
+#
+set term png
+set output 'dice_output.png'
+set xlabel 'Score'
+set ylabel 'Frequency'
+set title 'Score frequency for a pair of fair dice'
+set grid
+set style fill solid
+set yrange [0:*]
+set timestamp
+plot 'dice_data.txt' using 1:2:(0.90):xtic(3) with boxes
+quit
